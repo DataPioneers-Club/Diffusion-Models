@@ -32,6 +32,10 @@ The diffusion process involves two main phases: the forward process and the reve
 ![Screenshot 2024-08-18 115959](https://github.com/user-attachments/assets/01c308e4-8da9-4186-b0bd-0866bd1df7e1)
 ![Screenshot 2024-08-18 120142](https://github.com/user-attachments/assets/5931d40b-3447-4d80-9c78-40d5239a3b76)
 
+# Video 
+
+https://github.com/user-attachments/assets/65cb8c7b-36a6-46d9-8727-3429eca8902c
+
 ## How to run 
 * You have to create **API Token** on Hugging Face and create a .env file in that write this code ```bash HUGGING_FACE_API_KEY = Your api key ``` 
 ```bash
